@@ -1,4 +1,4 @@
-src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+
 <h1 align="center">Olá, eu sou a Liliana 👋</h1>
 
 <p align="center">
